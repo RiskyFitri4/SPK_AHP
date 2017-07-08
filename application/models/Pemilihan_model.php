@@ -79,6 +79,8 @@ class Pemilihan_model extends CI_Model
 		}
 	}
 	
+
+	
 	function peserta_add($id_penyewa,$id_pemilihan_gedung,$kriteriaData=array())
 	{
 		$s=array(
